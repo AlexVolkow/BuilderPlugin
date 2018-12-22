@@ -1,5 +1,5 @@
 # BuilderPlugin
- Generates a static nested Builder for a class.(intellij idea plugin)
+ Generates a static nested Builder for a class.(IntelliJ IDEA plugin)
  
 # Install
 
